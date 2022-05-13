@@ -1,0 +1,4 @@
+1 Madhapur,Telangana Rangareddy 500071 g 2 covaxin_1200_15;covishield_1100_30
+2 Kondapur,Telangana Rangareddy 500080 p 3 covaxin_1100_20;covishield_1000_18;sputnik_800_30
+3 Kurnool,AP Kurnool 500010 g 1 covaxin_1300_50 
+4 Nandyal,AP Kurnool 500010 p 2 moderna_600_19;pfizer_900_60
